@@ -1,0 +1,23 @@
+Top 10 Most Active Users in answering questions:
+User-ID: 22656.0, No. of answers: 1683
+User-ID: 23354.0, No. of answers: 1457
+User-ID: 69307.0, No. of answers: 1033
+User-ID: 23283.0, No. of answers: 1024
+User-ID: 76337.0, No. of answers: 967
+User-ID: 66692.0, No. of answers: 935
+User-ID: 12950.0, No. of answers: 926
+User-ID: 33708.0, No. of answers: 716
+User-ID: 3043.0, No. of answers: 708
+User-ID: 14860.0, No. of answers: 688
+
+Top 10 Most Inactive (Least Active) Users in answering questions:
+User-ID: 61935.0, No. of answers: 1
+User-ID: 116606.0, No. of answers: 1
+User-ID: 50047.0, No. of answers: 1
+User-ID: 99999.0, No. of answers: 1
+User-ID: 118722.0, No. of answers: 1
+User-ID: 118709.0, No. of answers: 1
+User-ID: 11173.0, No. of answers: 1
+User-ID: 118712.0, No. of answers: 1
+User-ID: 52167.0, No. of answers: 1
+User-ID: 11239.0, No. of answers: 1
