@@ -1,4 +1,4 @@
-Tag,qid_highest,Highest_Question_Viewcount,qid_lowest,Lowest_Question_Viewcount
+tag,qid_highest,highest_question_viewcount,qid_lowest,lowest_question_viewcount
 100-continue,848378,91,879120,68
 10g,589043,366,589043,366
 11g,704272,26,704272,26

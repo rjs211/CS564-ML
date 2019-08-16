@@ -1,4 +1,4 @@
-Tag,qid_highest,Highest_Question_Rating,qid_lowest,Lowest_Question_Rating
+tag,qid_highest,highest_question_rating,qid_lowest,lowest_question_rating
 100-continue,879120,2,848378,0
 10g,589043,1,589043,1
 11g,704272,0,704272,0
